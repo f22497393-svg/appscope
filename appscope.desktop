@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AppScope Security Console
+Comment=Unified graphical manager for Flatpak, Snap, and APT permissions
+Exec=python3 /usr/bin/appscope_gui.py
+Icon=security-high
+Terminal=false
+Type=Application
+Categories=System;Security;Utility;
