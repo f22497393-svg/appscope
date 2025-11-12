@@ -1,0 +1,6 @@
+sudo add-apt-repository ppa:truman93932/ppa
+sudo apt update
+
+
+
+sudo apt install appscope
